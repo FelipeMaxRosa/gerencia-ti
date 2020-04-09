@@ -1,0 +1,85 @@
+D:\Projetos\gerenciati\gerenciati\bin\Debug\dbgerenciati.mdf
+D:\Projetos\gerenciati\gerenciati\bin\Debug\dbgerenciati_log.ldf
+D:\Projetos\gerenciati\gerenciati\bin\Debug\gerenciati.exe
+D:\Projetos\gerenciati\gerenciati\bin\Debug\gerenciati.pdb
+D:\Projetos\gerenciati\gerenciati\obj\Debug\ResolveAssemblyReference.cache
+D:\Projetos\gerenciati\gerenciati\obj\Debug\gerenciati.Properties.Resources.resources
+D:\Projetos\gerenciati\gerenciati\obj\Debug\gerenciati.csproj.GenerateResource.Cache
+D:\Projetos\gerenciati\gerenciati\obj\Debug\gerenciati.exe
+D:\Projetos\gerenciati\gerenciati\obj\Debug\gerenciati.pdb
+D:\Projetos\gerenciati\gerenciati\obj\Debug\gerenciati.FormPrincipal.resources
+D:\Projetos\gerenciati\gerenciati\obj\Debug\gerenciati.FormEquipamentos.resources
+D:\Projetos\gerenciati\gerenciati\obj\Debug\gerenciati.FormLogin.resources
+D:\Projetos\gerenciati\gerenciati\obj\Debug\gerenciati.FormGridEquipamentos.resources
+C:\Documents and Settings\NILTON\Meus documentos\Projetos\gerenciati\gerenciati\obj\Debug\gerenciati.exe
+C:\Documents and Settings\NILTON\Meus documentos\Projetos\gerenciati\gerenciati\obj\Debug\gerenciati.pdb
+C:\Documents and Settings\NILTON\Meus documentos\Projetos\gerenciati\gerenciati\bin\Debug\dbgerenciati.mdf
+C:\Documents and Settings\NILTON\Meus documentos\Projetos\gerenciati\gerenciati\bin\Debug\dbgerenciati_log.ldf
+C:\Documents and Settings\NILTON\Meus documentos\Projetos\gerenciati\gerenciati\bin\Debug\gerenciati.exe
+C:\Documents and Settings\NILTON\Meus documentos\Projetos\gerenciati\gerenciati\bin\Debug\gerenciati.pdb
+C:\Documents and Settings\NILTON\Meus documentos\Projetos\gerenciati\gerenciati\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\NILTON\Meus documentos\Projetos\gerenciati\gerenciati\obj\Debug\gerenciati.FormEquipamentos.resources
+C:\Documents and Settings\NILTON\Meus documentos\Projetos\gerenciati\gerenciati\obj\Debug\gerenciati.FormGridEquipamentos.resources
+C:\Documents and Settings\NILTON\Meus documentos\Projetos\gerenciati\gerenciati\obj\Debug\gerenciati.FormLogin.resources
+C:\Documents and Settings\NILTON\Meus documentos\Projetos\gerenciati\gerenciati\obj\Debug\gerenciati.FormPrincipal.resources
+C:\Documents and Settings\NILTON\Meus documentos\Projetos\gerenciati\gerenciati\obj\Debug\gerenciati.Properties.Resources.resources
+C:\Documents and Settings\NILTON\Meus documentos\Projetos\gerenciati\gerenciati\obj\Debug\gerenciati.csproj.GenerateResource.Cache
+C:\Projetos\gerenciati\gerenciati\obj\Debug\gerenciati.exe
+C:\Projetos\gerenciati\gerenciati\obj\Debug\gerenciati.pdb
+C:\Projetos\gerenciati\gerenciati\bin\Debug\gerenciati.exe
+C:\Projetos\gerenciati\gerenciati\bin\Debug\gerenciati.pdb
+C:\Projetos\gerenciati\gerenciati\obj\Debug\ResolveAssemblyReference.cache
+C:\Projetos\gerenciati\gerenciati\obj\Debug\gerenciati.FormEquipamentos.resources
+C:\Projetos\gerenciati\gerenciati\obj\Debug\gerenciati.FormGridEquipamentos.resources
+C:\Projetos\gerenciati\gerenciati\obj\Debug\gerenciati.FormLogin.resources
+C:\Projetos\gerenciati\gerenciati\obj\Debug\gerenciati.FormPrincipal.resources
+C:\Projetos\gerenciati\gerenciati\obj\Debug\gerenciati.Properties.Resources.resources
+C:\Projetos\gerenciati\gerenciati\obj\Debug\gerenciati.csproj.GenerateResource.Cache
+C:\Projetos\gerenciati\gerenciati\obj\Debug\gerenciati.FormCadCpu.resources
+C:\Projetos\gerenciati\gerenciati\obj\Debug\gerenciati.FormGridCpu.resources
+C:\Projetos\gerenciati\gerenciati\bin\Debug\dbgerenciati.mdf
+C:\Projetos\gerenciati\gerenciati\bin\Debug\dbgerenciati_log.ldf
+C:\Projetos\gerenciati\gerenciati\obj\Debug\gerenciati.FormCadFornecedor.resources
+C:\Projetos\Gerenciati\gerenciati\obj\Debug\gerenciati.FormCadEstacao.resources
+C:\Projetos\Gerenciati\gerenciati\obj\Debug\gerenciati.FormGridET.resources
+C:\Projetos\Gerenciati\gerenciati\obj\Debug\gerenciati.FormCadOcorrencia.resources
+C:\Documents and Settings\Felipe\Meus documentos\Felipe\Projetos\Gerenciati\gerenciati\obj\Debug\gerenciati.exe
+C:\Documents and Settings\Felipe\Meus documentos\Felipe\Projetos\Gerenciati\gerenciati\obj\Debug\gerenciati.pdb
+C:\Documents and Settings\Felipe\Meus documentos\Felipe\Projetos\Gerenciati\gerenciati\bin\Debug\dbgerenciati.mdf
+C:\Documents and Settings\Felipe\Meus documentos\Felipe\Projetos\Gerenciati\gerenciati\bin\Debug\dbgerenciati_log.ldf
+C:\Documents and Settings\Felipe\Meus documentos\Felipe\Projetos\Gerenciati\gerenciati\bin\Debug\gerenciati.exe
+C:\Documents and Settings\Felipe\Meus documentos\Felipe\Projetos\Gerenciati\gerenciati\bin\Debug\gerenciati.pdb
+C:\Documents and Settings\Felipe\Meus documentos\Felipe\Projetos\Gerenciati\gerenciati\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Felipe\Meus documentos\Felipe\Projetos\Gerenciati\gerenciati\obj\Debug\gerenciati.FormCadCpu.resources
+C:\Documents and Settings\Felipe\Meus documentos\Felipe\Projetos\Gerenciati\gerenciati\obj\Debug\gerenciati.FormCadEstacao.resources
+C:\Documents and Settings\Felipe\Meus documentos\Felipe\Projetos\Gerenciati\gerenciati\obj\Debug\gerenciati.FormCadFornecedor.resources
+C:\Documents and Settings\Felipe\Meus documentos\Felipe\Projetos\Gerenciati\gerenciati\obj\Debug\gerenciati.FormCadOcorrencia.resources
+C:\Documents and Settings\Felipe\Meus documentos\Felipe\Projetos\Gerenciati\gerenciati\obj\Debug\gerenciati.FormEquipamentos.resources
+C:\Documents and Settings\Felipe\Meus documentos\Felipe\Projetos\Gerenciati\gerenciati\obj\Debug\gerenciati.FormGridCpu.resources
+C:\Documents and Settings\Felipe\Meus documentos\Felipe\Projetos\Gerenciati\gerenciati\obj\Debug\gerenciati.FormGridEquipamentos.resources
+C:\Documents and Settings\Felipe\Meus documentos\Felipe\Projetos\Gerenciati\gerenciati\obj\Debug\gerenciati.FormGridET.resources
+C:\Documents and Settings\Felipe\Meus documentos\Felipe\Projetos\Gerenciati\gerenciati\obj\Debug\gerenciati.FormLogin.resources
+C:\Documents and Settings\Felipe\Meus documentos\Felipe\Projetos\Gerenciati\gerenciati\obj\Debug\gerenciati.FormPrincipal.resources
+C:\Documents and Settings\Felipe\Meus documentos\Felipe\Projetos\Gerenciati\gerenciati\obj\Debug\gerenciati.Properties.Resources.resources
+C:\Documents and Settings\Felipe\Meus documentos\Felipe\Projetos\Gerenciati\gerenciati\obj\Debug\gerenciati.csproj.GenerateResource.Cache
+C:\Documents and Settings\Felipe\Meus documentos\Felipe\Projetos\Gerenciati\gerenciati\obj\Debug\gerenciati.FormCadPDV.resources
+D:\DESENVOLVIMENTO\Projetos\Gerenciati\gerenciati\obj\Debug\gerenciati.exe
+D:\DESENVOLVIMENTO\Projetos\Gerenciati\gerenciati\obj\Debug\gerenciati.pdb
+D:\DESENVOLVIMENTO\Projetos\Gerenciati\gerenciati\bin\Debug\dbgerenciati.mdf
+D:\DESENVOLVIMENTO\Projetos\Gerenciati\gerenciati\bin\Debug\dbgerenciati_log.ldf
+D:\DESENVOLVIMENTO\Projetos\Gerenciati\gerenciati\bin\Debug\gerenciati.exe
+D:\DESENVOLVIMENTO\Projetos\Gerenciati\gerenciati\bin\Debug\gerenciati.pdb
+D:\DESENVOLVIMENTO\Projetos\Gerenciati\gerenciati\obj\Debug\ResolveAssemblyReference.cache
+D:\DESENVOLVIMENTO\Projetos\Gerenciati\gerenciati\obj\Debug\gerenciati.FormCadCpu.resources
+D:\DESENVOLVIMENTO\Projetos\Gerenciati\gerenciati\obj\Debug\gerenciati.FormCadEstacao.resources
+D:\DESENVOLVIMENTO\Projetos\Gerenciati\gerenciati\obj\Debug\gerenciati.FormCadFornecedor.resources
+D:\DESENVOLVIMENTO\Projetos\Gerenciati\gerenciati\obj\Debug\gerenciati.FormCadOcorrencia.resources
+D:\DESENVOLVIMENTO\Projetos\Gerenciati\gerenciati\obj\Debug\gerenciati.FormCadPDV.resources
+D:\DESENVOLVIMENTO\Projetos\Gerenciati\gerenciati\obj\Debug\gerenciati.FormEquipamentos.resources
+D:\DESENVOLVIMENTO\Projetos\Gerenciati\gerenciati\obj\Debug\gerenciati.FormGridCpu.resources
+D:\DESENVOLVIMENTO\Projetos\Gerenciati\gerenciati\obj\Debug\gerenciati.FormGridEquipamentos.resources
+D:\DESENVOLVIMENTO\Projetos\Gerenciati\gerenciati\obj\Debug\gerenciati.FormGridET.resources
+D:\DESENVOLVIMENTO\Projetos\Gerenciati\gerenciati\obj\Debug\gerenciati.FormLogin.resources
+D:\DESENVOLVIMENTO\Projetos\Gerenciati\gerenciati\obj\Debug\gerenciati.FormPrincipal.resources
+D:\DESENVOLVIMENTO\Projetos\Gerenciati\gerenciati\obj\Debug\gerenciati.Properties.Resources.resources
+D:\DESENVOLVIMENTO\Projetos\Gerenciati\gerenciati\obj\Debug\gerenciati.csproj.GenerateResource.Cache
